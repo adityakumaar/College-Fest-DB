@@ -1,0 +1,101 @@
+student_id,member_name,designation,programme,gender
+20221201,Ezequiel Dinneges,president,msc it,Female
+20221202,Amelita O'Fairy,vice president,msc ds,Female
+20221203,Tadeo Treagus,web developer,msc biotech,Male
+20221204,Tiff Le Marquis,social media manager,btech ict,Female
+20221205,Davita Batcheldor,tresurer,btech mnc,Female
+20221206,Herman Sevier,core member,btech biotech,Male
+20221207,Louis Suthren,designer,msc agriculture,Male
+20221208,Justis Beaver,security coordinator,msc analytics,Male
+20221209,Raviv Jales,financial coordinator,msc mathematics,Male
+20221210,Chen Boadby,web developer,msc it,Male
+20221211,Bert Edgworth,social media manager,msc ds,Female
+20221212,Johanna Copas,tresurer,msc biotech,Female
+20221213,Georgine Bree,core member,btech ict,Female
+20221214,Fanni Takis,designer,btech mnc,Female
+20221215,Ashely Pim,security coordinator,btech biotech,Female
+20221216,Iorgos Pluck,financial coordinator,msc agriculture,Female
+20221217,Pippa Elleton,web developer,msc analytics,Female
+20221218,Clywd Kulas,social media manager,msc mathematics,Male
+20221219,Constantin Dollar,tresurer,msc it,Male
+20221220,Ronny Keuntje,core member,msc ds,Female
+20221221,Maia Weeden,designer,msc biotech,Female
+20221222,Vasily Gitthouse,security coordinator,btech ict,Male
+20221223,Martynne Mordin,financial coordinator,btech mnc,Female
+20221224,Carmina Tesmond,web developer,btech biotech,Female
+20221225,Ivory Hillaby,social media manager,msc agriculture,Female
+20221226,Keri Vamplers,tresurer,msc analytics,Female
+20221227,Avril Millott,core member,msc mathematics,Female
+20221228,Teddie Olliff,designer,msc it,Male
+20221229,Christina Bewsey,security coordinator,msc ds,Female
+20221230,Rozalin Whye,financial coordinator,msc biotech,Male
+20221231,Inglebert Coxhead,web developer,btech ict,Male
+20221232,Minnnie Hulmes,social media manager,btech mnc,Male
+20221233,Kane Braban,tresurer,btech biotech,Male
+20221234,Brew Neasham,core member,msc agriculture,Male
+20221235,Finley Kubczak,designer,msc analytics,Male
+20221236,Ritchie Eyers,security coordinator,msc mathematics,Male
+20221237,Rivi Fechnie,financial coordinator,msc it,Female
+20221238,Fowler Luety,web developer,msc ds,Male
+20221239,Lucia Mitchall,social media manager,msc biotech,Female
+20221240,Rorke Postins,tresurer,btech ict,Male
+20221241,Desdemona Hardwidge,core member,btech mnc,Female
+20221242,Delcine Bockett,designer,btech biotech,Female
+20221243,Therese Guidetti,security coordinator,msc agriculture,Female
+20221244,Paola Gaggen,financial coordinator,msc analytics,Female
+20221245,Jeane Casaccio,web developer,msc mathematics,Female
+20221246,Amerigo Skelhorne,social media manager,msc it,Male
+20221247,Bartolemo Clipsham,tresurer,msc ds,Male
+20221248,Waverly BURWIN,core member,msc biotech,Male
+20221249,Cris Cormode,designer,btech ict,Male
+20221250,Amelina Millin,security coordinator,btech mnc,Female
+20221251,Gleda Kleinzweig,financial coordinator,btech biotech,Female
+20221252,Lolita Ralph,web developer,msc agriculture,Female
+20221253,Barbabra Radcliffe,social media manager,msc analytics,Female
+20221254,Leonanie Tremellan,tresurer,msc mathematics,Female
+20221255,Mabelle Lafrentz,core member,msc it,Female
+20221256,Elsi Goard,designer,msc ds,Female
+20221257,Judie Gaine of England,security coordinator,msc biotech,Female
+20221258,Mandy Kleinhaus,financial coordinator,btech ict,Female
+20221259,Conant Christian,web developer,btech mnc,Male
+20221260,Garth Seel,social media manager,btech biotech,Male
+20221261,Jeanelle Peare,tresurer,msc agriculture,Female
+20221262,Farlie Cordle,core member,msc analytics,Male
+20221263,Toiboid Jamson,designer,msc mathematics,Male
+20221264,Jedediah Goschalk,security coordinator,msc it,Male
+20221265,Darelle Abramow,financial coordinator,msc ds,Male
+20221266,Chaddy Tulley,web developer,msc biotech,Male
+20221267,Alain Pendrid,social media manager,btech ict,Male
+20221268,Selena Attawell,tresurer,btech mnc,Female
+20221269,Goldi Bomb,core member,btech biotech,Female
+20221270,Rhiamon Bussell,designer,msc agriculture,Female
+20221271,Ema Arnald,security coordinator,msc analytics,Female
+20221272,Natka Dudderidge,financial coordinator,msc mathematics,Female
+20221273,Tristam Dunseath,web developer,msc it,Male
+20221274,Matilda Twist,social media manager,msc ds,Female
+20221275,Sasha Towhey,tresurer,msc biotech,Male
+20221276,Tyrus Dawney,core member,btech ict,Male
+20221277,Matty Ridsdale,designer,btech mnc,Male
+20221278,Monte Tamlett,security coordinator,btech biotech,Male
+20221279,Noell Swafield,financial coordinator,msc agriculture,Male
+20221280,Tarra Rooksby,web developer,msc analytics,Male
+20221281,Gibbie Millott,social media manager,msc mathematics,Male
+20221282,Dareen Meader,tresurer,msc it,Female
+20221283,Allene Pool,core member,msc ds,Female
+20221284,Alecia Culross,designer,msc biotech,Female
+20221285,Kessiah Parmiter,security coordinator,btech ict,Female
+20221286,Shandra Faber,financial coordinator,btech mnc,Female
+20221287,Melissa Belsey,web developer,btech biotech,Male
+20221288,Imojean Baldock,social media manager,msc agriculture,Female
+20221289,Der Hurl,tresurer,msc analytics,Male
+20221290,Junie Fruish,core member,msc mathematics,Male
+20221291,Ferdinanda Jarret,designer,msc it,Female
+20221292,Gerardo Phelps,security coordinator,msc ds,Male
+20221293,Esme Jahan,financial coordinator,msc biotech,Female
+20221294,Shurlock Kingsly,web developer,btech ict,Male
+20221295,Hercules Cymper,social media manager,btech mnc,Male
+20221296,Giles Eakins,tresurer,btech biotech,Male
+20221297,Franzen Defond,core member,msc agriculture,Male
+20221298,Bastian Wickey,designer,msc analytics,Male
+20221299,Muhammad Colin,security coordinator,msc mathematics,Male
+20221300,Rowena Andreoletti,financial coordinator,msc it,Male
